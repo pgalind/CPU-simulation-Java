@@ -1,14 +1,13 @@
 CPU Simulation
 
 Made by:
+
 Pablo Galindo
+
 Yuna Zhao
 
 For this project we implemented the Model View Controller design pattern. This design pattern
 allows separation of concerns and data hiding, and helps with debugging and making any future modifications.
-We chose to use the provided Java template because it made it easy to conceptualize object-oriented programming.
-
-In MVC, the controller communicates with the models and the views, but the models never communicate with the views.
 
 To keep track of logic block statistics, we made private variables in ControlModel and their corresponding getter methods.
 Each variable was incremented according to the type of instruction that was being processed, using the control signals.
