@@ -1,8 +1,8 @@
 CPU Simulation
 
 Made by:
-Pablo Galindo (pgalind)
-Yuna Zhao (yunaz)
+Pablo Galindo
+Yuna Zhao
 
 For this project we implemented the Model View Controller design pattern. This design pattern
 allows separation of concerns and data hiding, and helps with debugging and making any future modifications.
